@@ -1,4 +1,4 @@
-# Basic research on deep learning network architecture for visual recognition
+# Research on ViT, CNN Model for visual recognition
 ## 2023-2 Undergraduate Research II
 
 [1주차](https://github.com/Chihiro0623/Undergraduate-Research-II/tree/main/week1)  
