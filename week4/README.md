@@ -2,10 +2,10 @@
 ## Learnable Class Attention
 Task가 지나 새로운 학습 데이터들이 들어오더라도 기존의 데이터들에 대해서는 중요하게 여기는 부분들이 계속해서 유지된다면 Continual Learning의 문제인 Catastrophic Forgetting을 방지할 수 있을 것이라고 생각했다. Class Attention을 시각화한 결과는 그림과 같고, Task가 지날수록 중요하게 보는 부분이 옅어진다는 것을 알 수 있다.
 
-## 실험 과정
+### 실험 과정
 Attention 값에 2를 곱하는 방식으로 값에 할당되는 가중치를 두 배로 향상시켜 보았다.
 
-## 실험 결과
+### 실험 결과
 Average 기준 10 Steps에서는 1.5%p라는 큰 성능 향상이 있었으며, 50 Steps에서도 소소한 성능 향상을 보였다. 그러나 20 Steps에서는 큰 성능 향상을 보이지 않았기 때문에 20 Steps의 성능을 향상시키기 위한 개선법에 대해 생각하던 중, 단순히 2를 곱하는 것이 아닌 Learnable Parameter를 곱하는 Learnable Class Attention 방식을 생각해보았다. 그러나 이 방식 또한 성능의 개선을 보이지 않았고, 오히려 10 Steps의 성능도 저하시켰다.
 [WandB Report](https://api.wandb.ai/links/oso0310/s9lp7w0x)
 
