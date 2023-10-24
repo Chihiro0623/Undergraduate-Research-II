@@ -7,7 +7,7 @@
 [4주차](https://github.com/Chihiro0623/Undergraduate-Research-II/tree/main/week4)  
 [5주차](https://github.com/Chihiro0623/Undergraduate-Research-II/tree/main/week5)  
 [6주차](https://github.com/Chihiro0623/Undergraduate-Research-II/tree/main/week6)  
-7주차 - [중간보고서 작성]()  
+7주차 - 내용 정리 및 [중간보고서 작성]()  
 8주차 - 중간고사  
 
 
@@ -15,9 +15,7 @@
 [10주차](https://github.com/Chihiro0623/Undergraduate-Research-II/tree/main/week10)  
 [11주차](https://github.com/Chihiro0623/Undergraduate-Research-II/tree/main/week11)  
 [12주차](https://github.com/Chihiro0623/Undergraduate-Research-II/tree/main/week12)  
-[12주차](https://github.com/Chihiro0623/Undergraduate-Research-II/tree/main/week12)  
-[12주차](https://github.com/Chihiro0623/Undergraduate-Research-II/tree/main/week12)  
-[12주차](https://github.com/Chihiro0623/Undergraduate-Research-II/tree/main/week12)  
-[12주차](https://github.com/Chihiro0623/Undergraduate-Research-II/tree/main/week12)  
-
-[기말보고서]()
+[13주차](https://github.com/Chihiro0623/Undergraduate-Research-II/tree/main/week13)  
+[14주차](https://github.com/Chihiro0623/Undergraduate-Research-II/tree/main/week14)  
+15주차 - 내용 정리 및 [기말보고서 작성]()  
+16주차 - 기말고사
