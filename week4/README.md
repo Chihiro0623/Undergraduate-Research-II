@@ -10,6 +10,8 @@ Average 기준 10 Steps에서는 1.5%p라는 큰 성능 향상이 있었으며, 
 [WandB Report](https://api.wandb.ai/links/oso0310/s9lp7w0x)
 
 
+![table](https://github.com/Chihiro0623/Undergraduate-Research-II/blob/main/week4/table.png)
+
 ## New Teacher
 DyTox에서 Knowledge Distillation을 위해 사용하는 Teacher Model이 이전 Task까지의 학습이 완료된 Model이었다. 그러나 각 Task에서 사용하는 학습 데이터에서 이전 Task까지의 데이터가 차지하는 비중은 몹시 작기 때문에 Teacher Model은 대부분이 자신도 잘 모르는 새로운 데이터에 대해 Teacher 역할을 수행하고 있었다는 모순적인 상황을 확인할 수 있었다. 그러나 Knowledge Distillation을 아예 사용하지 않는 것보다는 훨씬 좋은 성능을 보여주었지만, 이 부분을 더욱 개선시킬 수 있을 것이라는 생각이 들었다.
 
