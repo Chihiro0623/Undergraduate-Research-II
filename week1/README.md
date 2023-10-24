@@ -8,6 +8,5 @@
 
 
 ## 실험 결과
-ResNet18, Batch Size 100에서 좋은 결과가 나왔다. 이에 좀 더 큰 모델인 ResNet50에서도 잘 작동하는지 확인해보기 위해 추가적인 실험을 진행하였다. 이미지 사이즈를 224와 32 사이에서 바꿔보고, Batch Normalization에 다양한 Sample들이 골고루 들어갈 수 있도록 epoch마다 Class별 등장 순서를 Shuffle하기도 하였다. 그 결과, Image Size가 32일 때에는 성능이 저하되었으나, 224일 때에는 약 1.7%p의 성능 향상을 볼 수 있었다.  
-
+ResNet18, Batch Size 100에서 좋은 결과가 나왔다. 이에 좀 더 큰 모델인 ResNet50에서도 잘 작동하는지 확인해보기 위해 추가적인 실험을 진행하였다. 이미지 사이즈를 224와 32 사이에서 바꿔보고, Batch Normalization에 다양한 Sample들이 골고루 들어갈 수 있도록 epoch마다 Class별 등장 순서를 Shuffle하기도 하였다. 그 결과, Image Size가 32일 때에는 성능이 저하되었으나, 224일 때에는 약 1.7%p의 성능 향상을 볼 수 있었다.
 [WandB Report](https://api.wandb.ai/links/oso0310/u6s45ncx)
