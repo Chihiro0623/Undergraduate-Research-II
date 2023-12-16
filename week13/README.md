@@ -6,4 +6,6 @@
 일정 Epoch 이전까지만 방법론을 적용하거나 Plateau 구간에서 성능이 거의 오르지 않는다는 점을 발견해 그 구간에서 새롭게 학습할 데이터를 줄 수 있도록 Plateau 구간에서만 적용해보거나 처음부터 Memory를 사용하지 않다가 Plateau 구간에서만 Memory를 사용해 보았다.
 
 ## 실험 결과
-어떤 모델이든 성능을 향상시키는 데는 성공하였으나, 통일된 방법을 찾는 데는 실패하였다.
+어떤 모델이든 성능을 향상시키는 데는 성공하였으나, 통일된 방법을 찾는 데는 실패하였다.  
+
+![table](https://github.com/Chihiro0623/Undergraduate-Research-II/blob/main/week13/table.png)  

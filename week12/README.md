@@ -6,4 +6,7 @@
 각 모델별로 Cifar-100 Dataset의 Base0 Inc5, Base0 Inc10, Base0 Inc20, Base50 Inc10의 4번씩 실험을 진행하였다.
 
 ## 실험 결과
-성능이 낮게 나오는 모델들이 있었지만 대부분은 똑같이 재현되었다.
+성능이 낮게 나오는 모델들이 있었지만 대부분은 똑같이 재현되었다.  
+
+[WandB Report](https://api.wandb.ai/links/oso0310/u2l9fobh)  
+![table](https://github.com/Chihiro0623/Undergraduate-Research-II/blob/main/week12/table.png)  
